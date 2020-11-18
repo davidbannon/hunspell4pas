@@ -1,0 +1,10 @@
+Licence file for associated libhunspell.dll
+
+This 64bit 
+
+libhunspell.dll was compiled from the original source from https://github.com/hunspell/hunspell 
+with Microsoft Visual Studio Community 2015 (many thanks to rvk from the Lazarus Forum for this).
+
+As such its covered by the hunspell licence and is free to use or distribute 
+with your programme but this license file should remain with it.
+
